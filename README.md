@@ -10,12 +10,12 @@
 ---
 
 ## 📊 My GitHub Stats
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamdaoudi&show_icons=true&theme=tokyonight)
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam04-D&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdaoudi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam04-D&layout=compact&theme=tokyonight)
 
 ---
 
