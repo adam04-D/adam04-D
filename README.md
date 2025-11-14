@@ -2,20 +2,9 @@
 
 ## 💻 About Me
 - 🎓 Data Science student at INSEA
-- 🔭 Currently working on spatial data analysis & drought prediction
-- 🌱 Learning: Machine Learning, Geospatial Analysis, and Deep Learning
+- 🔭 Currently working on deep learning projects and drought prediction
+- 🌱 Learning: Machine Learning, Deep Learning, and Data Science
 - 💬 Ask me about: Python, Data Science, ML, and Statistics
-- ⚡ Fun fact: I love exploring satellite data 🌍
-
----
-
-## 📊 My GitHub Stats
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam04-D&show_icons=true&theme=tokyonight)
-
----
-
-## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam04-D&layout=compact&theme=tokyonight)
 
 ---
 
