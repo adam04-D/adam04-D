@@ -34,9 +34,7 @@ me.say_hi()
 
 - :mortar_board: **2nd Year** Data Science Engineering Student at **INSEA Rabat**
 - :brain: Passionate about **Deep Learning** & **Statistical Modeling**
-- :telescope: Currently working on **SPI-NDVI Time Series Forecasting**
 - :seedling: Learning **LLMs**, **RAG**, and **Generative AI**
-- :briefcase: Seeking **Internship opportunities (PFA)** in Deep Learning
 - :email: Reach me at **adamdaoudi04@gmail.com**
 - :zap: Fun fact: I turn coffee into `models.fit()`
 
@@ -164,3 +162,4 @@ me.say_hi()
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=120&section=footer"/>
+
