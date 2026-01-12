@@ -135,7 +135,8 @@ me.say_hi()
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&quote=Data%20is%20the%20new%20oil,%20but%20insights%20are%20the%20real%20gold.&author=Adam%20Daoudi" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&quote=The%20Adam%20I%20know%20has%20a%20loss%20problem,%20I%27m%20the%20one%20who%20optimizes%20it%20&author=Adam%20Daoudi" alt="Quote"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=120&section=footer"/>
+
