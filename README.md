@@ -24,7 +24,7 @@ class DataScientist:
         self.role = "Data Science Engineering Student"
         self.school = "INSEA Rabat"
         self.language_spoken = ["fr_FR", "en_US", "ar_MA"]
-        
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
@@ -36,7 +36,7 @@ me.say_hi()
 - :brain: Passionate about **Deep Learning** & **Statistical Modeling**
 - :seedling: Learning **LLMs**, **RAG**, and **Generative AI**
 - :email: Reach me at **adamdaoudi04@gmail.com**
-- :zap: Fun fact: I turn coffee into `models.fit()`
+- :zap: Fun fact: The Adam I know has a loss problem, I'm the one who optimizes it 
 
 ---
 
@@ -97,35 +97,12 @@ me.say_hi()
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adam04-D&show_icons=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=e6f1ff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adam04-D&theme=react&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam04-D&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=e6f1ff" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adam04-D&custom_title=Adam's%20Contribution%20Graph&bg_color=0a192f&color=64ffda&line=64ffda&point=e6f1ff&area_color=64ffda&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
-
-<p align="center">
-  <a href="https://github.com/adam04-D/MyPortfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adam04-D&repo=MyPortfolio&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=e6f1ff" alt="Portfolio"/>
-  </a>
-</p>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>:herb: SPI-NDVI Forecasting</h3>
+      <h3> SPI-NDVI Forecasting</h3>
       <p>Deep Learning for vegetation index prediction using satellite data</p>
       <img src="https://img.shields.io/badge/RMSE-3.97%25-64ffda?style=flat-square"/>
       <br/><br/>
@@ -134,7 +111,7 @@ me.say_hi()
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <h3>:robot: OmniSentinel AI</h3>
+      <h3> OmniSentinel AI</h3>
       <p>Intelligent chatbot for banking audit assistance</p>
       <img src="https://img.shields.io/badge/Cloud--First-Architecture-64ffda?style=flat-square"/>
       <br/><br/>
@@ -162,4 +139,3 @@ me.say_hi()
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:64ffda&height=120&section=footer"/>
-
