@@ -15,5 +15,5 @@
   &nbsp;·&nbsp;
   <a href="mailto:adamdaoudi04@gmail.com">Email</a>
   &nbsp;·&nbsp;
-  <a href="https://sardia.me">Portfolio</a>
+  <a href="https://daoudi.netlify.app">Portfolio</a>
 </p>
