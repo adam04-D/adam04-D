@@ -1,14 +1,6 @@
-﻿<h1 align="center">Adam Daoudi</h1>
-
 <p align="center">
-  <b>Data Science Engineer</b> &nbsp;·&nbsp; <b>Deep Learning Enthusiast</b>
+  <img src="assets/banner.svg" alt="Adam Daoudi - Data Science Engineer and Deep Learning Enthusiast" width="100%"/>
 </p>
-
-<p align="center">
-  <sub>INSEA Rabat &nbsp;·&nbsp; Morocco</sub>
-</p>
-
-<br/>
 
 <p align="center">
   <i>"The Adam I know has a loss problem, I'm the one who optimizes it."</i>
