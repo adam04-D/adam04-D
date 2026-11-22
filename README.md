@@ -1,11 +1,5 @@
 <p align="center">
-</p>
-
-<p align="center">
-  <i>"The adam I know has a loss problem, I'm the one who optimizes it."</i>
-  <br/>
-
+  <code><i>"The adam I know has a loss problem, I'm the one who optimizes it."</i></code>
 </p>
 
 <br/>
-
