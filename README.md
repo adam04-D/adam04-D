@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Adam Daoudi - Data Science Engineer and Deep Learning Enthusiast" width="100%"/>
 </p>
 
 <p align="center">
